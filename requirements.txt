@@ -1,0 +1,10 @@
+streamlit
+requests
+moviepy
+Pillow
+numpy
+opencv-python-headless
+pydantic
+aiohttp
+ffmpeg-python
+python-dotenv

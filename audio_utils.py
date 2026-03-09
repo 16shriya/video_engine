@@ -1,4 +1,4 @@
-from moviepy.editor import AudioFileClip
+from moviepy import AudioFileClip
 
 def get_audio_duration(audio_path):
     try:
@@ -8,3 +8,4 @@ def get_audio_duration(audio_path):
         return duration
     except Exception:
         return 0
+

@@ -1,6 +1,7 @@
 streamlit
 requests
 moviepy
+imageio-ffmpeg
 Pillow
 numpy
 opencv-python-headless
@@ -9,4 +10,3 @@ aiohttp
 ffmpeg-python
 python-dotenv
 pydub
-pyaudioop

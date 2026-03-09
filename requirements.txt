@@ -9,4 +9,4 @@ pydantic
 aiohttp
 ffmpeg-python
 python-dotenv
-
+playwright
